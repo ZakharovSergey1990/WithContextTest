@@ -1,0 +1,1 @@
+This is a sample Android application built with Jetpack Compose, showcasing why withContext(Dispatchers.Default) is still important — even when using libraries like Retrofit, Room, or Ktor that handle threading internally.
